@@ -1,6 +1,5 @@
 # Finding-Limits-and-returning-to-the-starts-position-thanks-to-Bor-Encoder-
 Using an bor encoder, it is possible to set a limit on the number of rotations, and when the limit is reached, it returns to the initial position.
-# Finding Limits and Returning to the Start Position Using Bor Encoder
 
 This project focuses on robotics control systems for FTC (FIRST Tech Challenge) robots using Bor Encoder integration, adaptive RPM calculations, and coordinate-based positioning.
 
