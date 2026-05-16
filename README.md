@@ -5,7 +5,7 @@ This project focuses on robotics control systems for FTC (FIRST Tech Challenge) 
 
 The system is designed to calculate RPM values, manage turret rotation limits, reset coordinate positions, and support adaptive shooting from different locations on the field.
 
-The main goal of this project is to improve robot accuracy, automation, and movement control during the INTO THE DEEP (Decode) season.
+The main goal of this project is to improve robot accuracy, automation, and movement control during the DECODE season.
 
 ---
 
